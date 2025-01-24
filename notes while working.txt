@@ -1,0 +1,2 @@
+This is not going to work in current open cv versions as the package face is not present in the current open cv versions.
+for the code to work I have installed the open cv2 4.5.5.64

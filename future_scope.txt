@@ -1,0 +1,7 @@
+As during my internship in gurugram police(cybersecurity), I got to know about a urgent need for a software which could identify criminals using cctv footages of the local area.
+This project can help to conquer problems like this where we need to identify a object using the previously existing database(in this case criminal records).
+
+
+This can also be used to design a software for auto attendance as the student enters a class using his/her biometrics. This can help to eliminate the tudious task of marking the attendance by teacher in the classroom. therefore-- saving the time.
+
+
